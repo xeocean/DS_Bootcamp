@@ -1,0 +1,15 @@
+Sun Dec 22 19:40:58 2024    pstats-test
+
+         589312 function calls (574461 primitive calls) in 3.334 seconds
+
+   Ordered by: call count
+   List reduced from 1164 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    61707    0.009    0.000    0.009    0.000 {method 'append' of 'list' objects}
+    47025    0.006    0.000    0.007    0.000 {built-in method builtins.isinstance}
+46933/43022    0.006    0.000    0.007    0.000 {built-in method builtins.len}
+    24863    0.022    0.000    0.022    0.000 {method 'match' of 're.Pattern' objects}
+    18492    0.004    0.000    0.004    0.000 {method 'get' of 'dict' objects}
+
+
