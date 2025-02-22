@@ -13,6 +13,5 @@
 | DS Bootcamp. Day05         | Изучение работы с библиотекой Pandas для анализа данных |
 | DS Bootcamp. Day06         | Основы работы с SQL для работы с базами данных |
 | DS Bootcamp. Day07         | Визуализация данных с использованием Matplotlib, Seaborn и Plotly |
-| DS Bootcamp. Day08         | Основы машинного обучения в Python (In process) |
-| DS Bootcamp. Day09         | Продвинутые задачи машинного обучения в Python (In process) |
-| DS Bootcamp. Team01        | Командный проект для применения навыков машинного обучения (In process) |
+| DS Bootcamp. Day08         | Основы машинного обучения в Python|
+| DS Bootcamp. Day09         | Продвинутые задачи машинного обучения в Python|
